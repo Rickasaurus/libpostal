@@ -11,7 +11,7 @@ AC_CONFIG_MACRO_DIR([m4])
 
 AM_INIT_AUTOMAKE([foreign subdir-objects])
 AC_CONFIG_SRCDIR([src])
-LT_INIT([shared])
+LT_INIT([win32-dll])
 
 AC_CONFIG_HEADERS([config.h])
 
@@ -48,7 +48,7 @@ AC_TYPE_UINT8_T
 AC_CHECK_TYPES([ptrdiff_t])
 
 # Checks for library functions.
-AC_CHECK_FUNCS([malloc realloc drand48 getcwd gettimeofday memmove memset regcomp setlocale sqrt strdup strndup])
+AC_CHECK_FUNCS([malloc realloc getcwd gettimeofday memmove memset regcomp setlocale sqrt strdup strndup])
 
 AC_CONFIG_FILES([Makefile
                  libpostal.pc

@@ -1,0 +1,11 @@
+prefix=/mingw64
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libpostal
+Description: Fast international street address parsing and normalization using statistical NLP.
+Version: 1.0.0
+Libs: -L${libdir} -lpostal
+Libs.private: 
+Cflags: -I${includedir}

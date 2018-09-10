@@ -1,0 +1,177 @@
+test_libpostal-test_crf_context.o: test_crf_context.c \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_print_push.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_print_pop.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed/limits.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed/syslimits.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/limits.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/stdbool.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/stdarg.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/stdarg.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h greatest.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/string.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/setjmp.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/time.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/_timeval.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/sys/timeb.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/pthread_time.h \
+ ../src/float_utils.c ../src/float_utils.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/float.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/float.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/math.h ../src/crf_context.c \
+ ../src/crf_context.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/stdint.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/stdint.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/stddef.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ ../src/collections.h ../src/log/log.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/errno.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/inttypes.h \
+ ../src/klib/khash.h ../src/klib/ksort.h ../src/klib/drand48.h \
+ ../config.h ../src/vector.h ../src/vector_math.h ../src/matrix.h \
+ ../src/file_utils.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/sys/types.h \
+ ../src/libpostal_config.h ../src/string_utils.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/ctype.h \
+ ../src/utf8proc/utf8proc.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/dirent.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/io.h
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/crtdefs.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/vadefs.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_print_push.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/swprintf.inl:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_print_pop.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/stdlib.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed/limits.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed/syslimits.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/limits.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/malloc.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/stdbool.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/stdarg.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/stdarg.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h:
+
+greatest.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/string.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/setjmp.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/time.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/_timeval.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/sys/timeb.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/pthread_time.h:
+
+../src/float_utils.c:
+
+../src/float_utils.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/float.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/float.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/math.h:
+
+../src/crf_context.c:
+
+../src/crf_context.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/stdint.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/stdint.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/stddef.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/stddef.h:
+
+../src/collections.h:
+
+../src/log/log.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/errno.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/inttypes.h:
+
+../src/klib/khash.h:
+
+../src/klib/ksort.h:
+
+../src/klib/drand48.h:
+
+../config.h:
+
+../src/vector.h:
+
+../src/vector_math.h:
+
+../src/matrix.h:
+
+../src/file_utils.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/sys/types.h:
+
+../src/libpostal_config.h:
+
+../src/string_utils.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/ctype.h:
+
+../src/utf8proc/utf8proc.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/dirent.h:
+
+C:/msys64/mingw64/x86_64-w64-mingw32/include/io.h:
